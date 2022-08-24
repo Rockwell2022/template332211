@@ -1,0 +1,58 @@
+header{
+    background-color: #d7eaf7;
+}
+footer{
+    height: 50px;
+    background-color: #d7eaf7;
+
+}
+.navbar li:hover{
+    border-bottom: 1px solid #000;
+}
+li.m{
+    font-size: 20px;    ;
+}
+.content{
+    min-height: 200px;;
+}
+.goodone{
+    border:1px solid transparent;
+    margin:15px 2px;
+}
+.goodone:hover{
+    border:1px solid #000;
+}
+.caption{
+    text-align: center;
+}
+.btn-primary{
+    margin: 15px 0;
+    width: 200px ;
+}
+.img-thumbnail{
+    border:none!important;
+}
+.image{
+    margin: 15px 35px;
+}
+.logo{
+    margin: 15px 0;
+}
+li, li h4{
+    display:inline;
+    margin: 40px;
+}
+nav{
+    margin-top: 35px;
+}
+.topic{
+    margin-top: 40px;
+    text-align:right;
+}
+h4 .foot{
+    margin-top: 20px;
+    text-align: right;
+}
+.caption p{
+    text-align: center;
+}
